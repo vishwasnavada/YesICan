@@ -1,7 +1,11 @@
 # YesICan
 Artemis ATP based offline trainer for Autism afftected children using Tensor Flow Lite
-Here's the project link
+
+
+Here's the project link:
+
 [YesICan](https://www.hackster.io/vishwasnavada/yes-i-can-yic-3411ae)
+
 The pin connection is very simple one can directly connect it to any PWM pin to drive the servo motor. 
 
 Here's the video Link:
