@@ -10,5 +10,6 @@ The pin connection is very simple. One can directly connect it to any PWM pin to
 
 Here's the video Link:
 I was off-grid due to some emergency, so uploading video was delayed. 
+Click on the thumbnail to watch the video.
 [![Watch the video](https://img.youtube.com/vi/B-dkS9U7A28/maxresdefault.jpg)](https://youtu.be/B-dkS9U7A28)
 
